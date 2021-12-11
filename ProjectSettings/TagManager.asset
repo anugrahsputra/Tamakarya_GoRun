@@ -9,6 +9,7 @@ TagManager:
   - Coin
   - Obstacle
   - Background
+  - SoundEffect
   layers:
   - Default
   - TransparentFX
